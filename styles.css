@@ -1,0 +1,16 @@
+h1 {
+    border: 10px dotted pink;
+    border-radius: 25px;
+
+}
+
+p {
+    font-family: 'Abril Fatface', cursive;
+
+}
+
+body {
+    background-color: #000000;
+    color: white;
+
+}
